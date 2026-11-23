@@ -22,3 +22,7 @@ Security, Performance, Usability, Reliability, Availability, Backup
 
 ## Departments
 Emergency, Cardiology, Surgery, Pediatrics
+
+## Task Board
+
+We managed our tasks on [Trello](https://trello.com/b/w0JZ26bZ/hospital)
