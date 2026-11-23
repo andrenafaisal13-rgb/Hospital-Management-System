@@ -1,9 +1,18 @@
 # Hospital Management System
+A system for managing patients, doctors, appointments, medical records, rooms, and billing.
 
-A system for managing hospital operations.
+## Team Members
+- Andrena Faisal
+- Salma Tariq
+- Joudy Ammar
+
+## Tools Used
+- **Coggle**: mind maps and requirements analysis
+- **Trello**: task management and progress tracking
+- **GitHub**: version control and project documentation
+
 
 ## Mind Map
-
 ![Mind Map](Screenshot%202026-11-23%20230815.png)
 
 ## Users
@@ -24,5 +33,4 @@ Security, Performance, Usability, Reliability, Availability, Backup
 Emergency, Cardiology, Surgery, Pediatrics
 
 ## Task Board
-
 We managed our tasks on [Trello](https://trello.com/b/w0JZ26bZ/hospital)
