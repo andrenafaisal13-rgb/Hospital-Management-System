@@ -1,2 +1,20 @@
-# Hospital-Management-System
-Hospital Management System for managing Patients , Doctors , appointments , medical records , rooms , and billing. 
+# Hospital Management System
+
+A system for managing hospital operations.
+
+## Users
+Nurses, Receptionists, Doctors, Patients, Accountants
+
+## Functional Requirements
+- Appointments (book, cancel, reschedule)
+- Manage Doctors
+- Patient Registration
+- Medical Records (patient history, diagnosis, prescriptions)
+- Room Management (available rooms, room status)
+- Billing (payments, invoices)
+
+## Non-Functional Requirements
+Security, Performance, Usability, Reliability, Availability, Backup
+
+## Departments
+Emergency, Cardiology, Surgery, Pediatrics
