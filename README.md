@@ -2,6 +2,10 @@
 
 A system for managing hospital operations.
 
+## Mind Map
+
+![Mind Map](Screenshot%202026-11-23%20230815.png)
+
 ## Users
 Nurses, Receptionists, Doctors, Patients, Accountants
 
